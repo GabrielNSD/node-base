@@ -10,3 +10,7 @@
 
 - Install dependency.  
   `yarn add ts-node-dev -D`
+
+## tsconfig
+
+- Configure tsconfig
